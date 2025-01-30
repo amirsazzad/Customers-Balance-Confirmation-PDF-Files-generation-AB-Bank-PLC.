@@ -47,7 +47,7 @@ Clone this repository to your local machine:
 
 bash
 Copy
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/amirsazzad/PDF-Generator-For-AB-Bank-PLC..git
 2. Configure the Application
 Open the App.config file and update the following settings:
 
