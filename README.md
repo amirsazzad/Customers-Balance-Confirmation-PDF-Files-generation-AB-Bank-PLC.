@@ -1,4 +1,4 @@
-# PDF-Generator-For-AB-Bank-PLC.
+# Customers Balance Confirmation (PDF) Files generation AB-Bank-PLC.
 Class Name: PDFGen  Purpose: This class is responsible for generating PDF documents containing balance confirmation details for bank accounts. The PDFs are password-protected and stored in a specified directory. The class also logs the generated PDFs into a database for tracking purposes.
 PDF Generation and Email Notification System
 This project is a C# application designed to generate PDF documents containing balance confirmation details for bank accounts. The generated PDFs are password-protected and stored in a specified directory. The application also logs the generated PDF details into a database for tracking purposes.
