@@ -3,7 +3,7 @@ Class Name: PDFGen  Purpose: This class is responsible for generating PDF docume
 PDF Generation and Email Notification System
 This project is a C# application designed to generate PDF documents containing balance confirmation details for bank accounts. The generated PDFs are password-protected and stored in a specified directory. The application also logs the generated PDF details into a database for tracking purposes.
 
-<h1 align="center">📄 PDF Generation and Email Notification System</h1>
+<h1 align="center">📄 PDF Generation System</h1>
 
 <p align="center">
   <strong>A C# application for generating password-protected PDFs and logging details into a database.</strong>
