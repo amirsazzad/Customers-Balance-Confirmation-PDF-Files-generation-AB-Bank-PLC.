@@ -34,7 +34,7 @@ Before running the application, ensure you have the following installed:
 Clone this repository to your local machine:
 bash
 Copy
-git clone https://github.com/amirsazzad/PDF-Generator-For-AB-Bank-PLC..git
+git clone https://github.com/amirsazzad/Customers-Balance-Confirmation-PDF-Files-generation-AB-Bank-PLC..git
 
 2. Configure the Application
 Open the App.config file and update the following settings:
