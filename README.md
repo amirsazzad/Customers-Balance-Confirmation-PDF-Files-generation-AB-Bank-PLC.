@@ -171,13 +171,3 @@ Ensure the PDFs folder has write permissions.
 
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-For questions or support, please contact:
-
-Your Name: your.email@example.com
-
-GitHub: your-username
