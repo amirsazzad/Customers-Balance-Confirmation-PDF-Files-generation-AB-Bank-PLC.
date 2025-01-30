@@ -4,25 +4,19 @@ PDF Generation and Email Notification System
 This project is a C# application designed to generate PDF documents containing balance confirmation details for bank accounts. The generated PDFs are password-protected and stored in a specified directory. The application also logs the generated PDF details into a database for tracking purposes.
 
 Features
-PDF Generation:
+<h4>PDF Generation:</h4>
 
 Dynamically generates PDFs with account details, including balance confirmation.
-
 Adds a watermark and logo to each PDF.
-
 Formats the content with custom fonts and styles.
-
 Password Protection:
-
 Protects each PDF with a password derived from the account number.
-
 Database Integration:
-
 Fetches account details from a database.
 
 Logs generated PDF details (e.g., file path, email, SMS) into a database table for tracking.
 
-Configuration Management:
+<h4>Configuration Management:
 
 Uses App.config to manage settings such as database connection strings, file paths, and email configurations.
 
