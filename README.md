@@ -25,8 +25,7 @@ Before running the application, ensure you have the following installed:
 - **.NET Framework** (version 4.5 or higher)
 - **iTextSharp** library (for PDF generation)
 - **SQL Server** or any compatible database
-- **IBMDA400.DataSource.1** provider (for database connectivity)
-- 
+- **IBMDA400.DataSource** provider (for database connectivity)
 
 ## 🚦 **Setup Instructions**
 
