@@ -135,8 +135,6 @@ Ensure the database server is running and accessible.
 PDF Generation Errors:
 Verify that the image paths in App.config are correct.
 
-After generating the PDF, an email can be sent.
-
 Ensure the PDFs folder has write permissions.
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
